@@ -1,22 +1,13 @@
 #!/bin/bash
-# onedark_black="#282c34"
-# onedark_blue="#61afef"
-# onedark_yellow="#e5c07b"
-# onedark_red="#e06c75"
-# onedark_white="#aab2bf"
-# onedark_green="#98c379"
-# onedark_visual_grey="#3e4452"
-# onedark_comment_grey="#5c6370"
-#
-# CARBONFOX 
-onedark_black="#282828"
-onedark_blue="#78A9FF"
-onedark_yellow="#08BDBA"
-onedark_red="#EE5396"
-onedark_white="#DFDFE0"
-onedark_green="#25BE6A"
+onedark_black="#282c34"
+onedark_blue="#61afef"
+onedark_yellow="#e5c07b"
+onedark_red="#e06c75"
+onedark_white="#aab2bf"
+onedark_green="#98c379"
 onedark_visual_grey="#3e4452"
 onedark_comment_grey="#5c6370"
+
 
 get() {
    local option=$1
